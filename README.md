@@ -147,6 +147,10 @@ kanban_app/
 **Video**
 
 
+https://github.com/CodeWithShivv/kanban_app/assets/83440338/33749a54-7074-4c12-ac1f-37337db1b5fd
+
+
+
 **Contributing:**
 
 1.  Fork the repository on GitHub.
