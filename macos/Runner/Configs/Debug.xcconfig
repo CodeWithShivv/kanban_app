@@ -1,0 +1,5 @@
+#include "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
+#include "Generated.xcconfig"
+
+// MoEngage App ID
+MOENGAGE_APP_ID = ML6MJIAMIDKZ8JLN827N8N8C

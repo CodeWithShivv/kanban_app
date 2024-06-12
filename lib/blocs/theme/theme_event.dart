@@ -1,0 +1,1 @@
+enum ThemeEvent { toggleDark, toggleLight }
