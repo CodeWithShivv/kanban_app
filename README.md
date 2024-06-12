@@ -14,7 +14,8 @@ between different columns (e.g. "To Do", "In Progress", "Done").
 -   **Error reporting:** Implements a robust error handling mechanism to identify and address app issues effectively.
 -   **Event tracking:** Tracks user interactions with boards, tasks, and comments using Firebase Analytics for valuable insights.
 -   **Firebase integration:** Leverages Firebase for potential authentication, analytics, and database features (implementation details can be customized).
-
+-   **Integration with Todoist API:** Utilizes available services from [Todoist API](https://developer.todoist.com/rest/v2/#overview) for additional functionalities.
+-   **Task Time Traking Function using Labels field in app :** The app dynamically updates task labels (e.g., "In Progress", "Done", "To Do") based on their status within the Kanban board, along with corresponding start and end times.
 **Project Structure:**
 
 ```
@@ -132,6 +133,19 @@ kanban_app/
     Use code [with caution.](/faq#coding)
 
     content_copy
+
+**ScreenShots**
+<img width="352" alt="Screenshot 2024-06-12 at 9 55 20 PM" src="https://github.com/CodeWithShivv/kanban_app/assets/83440338/a0bb9ea4-1052-41a9-b73e-087e87e18bd5">
+
+<img width="404" alt="Screenshot 2024-06-12 at 9 56 50 PM" src="https://github.com/CodeWithShivv/kanban_app/assets/83440338/21157801-5bb5-46ca-88ec-429dc46297f2">
+
+<img width="402" alt="Screenshot 2024-06-12 at 9 57 07 PM" src="https://github.com/CodeWithShivv/kanban_app/assets/83440338/b6b9c5b6-5afc-44ca-a0d0-072902df878d">
+<img width="397" alt="Screenshot 2024-06-12 at 9 57 29 PM" src="https://github.com/CodeWithShivv/kanban_app/assets/83440338/0d886590-64a8-45b2-86b1-cc80e3de1979">
+
+<img width="408" alt="Screenshot 2024-06-12 at 9 57 51 PM" src="https://github.com/CodeWithShivv/kanban_app/assets/83440338/38e6bacd-e1ee-4347-875c-5f0845c23be8">
+
+**Video**
+
 
 **Contributing:**
 
